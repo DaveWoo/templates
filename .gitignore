@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NFine/src/NFine.Application/bin/Debug
+/NFine/src/NFine.Application/bin/Debug
+/NFine/src/NFine.Application/obj/Debug
+/NFine/src/NFine.Code/bin/Debug
+/NFine/src/NFine.Code/bin/Debug
+/NFine/src/NFine.Code/obj/Debug
+/NFine/src/NFine.Data/bin/Debug
+/NFine/src/NFine.Domain/bin/Debug
+/NFine/src/NFine.Domain/obj/Debug
+/NFine/src/NFine.Mapping/bin/Debug
+/NFine/src/NFine.Mapping/obj/Debug
+/NFine/src/NFine.Repository/bin/Debug
+/NFine/src/NFine.Repository/obj/Debug
+/NFine/src/NFine.Web/bin
+/NFine/src/NFine.Data/obj/Debug
+/NFine/src/NFine.Web/obj/Debug
+/NFine/src/packages
+/NFine/src/NFine.Framework.v11.suo
+/NFine/src/NFine.Framework.v12.suo
